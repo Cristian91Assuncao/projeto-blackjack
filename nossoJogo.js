@@ -44,6 +44,3 @@ alert("Boas vindas ao jogo de BlackJack!")
    alert('O jogo acabou!')
  }
 
-
- 
-// 4 - Abra um Pull Request e faça um commit com a frase “Nosso Jogo”.
